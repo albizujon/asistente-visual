@@ -1,0 +1,25 @@
+# Ignorar entorno virtual
+venv/
+.venv/
+
+# Ignorar modelos YOLO
+*.pt
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar logs y archivos temporales
+*.log
+*.log.*
+*.log-*
+
+# Ignorar archivos .whl y otros binarios
+*.whl
+
+# Ignorar carpetas y archivos generados automáticamente
+__pycache__/
+imagenes_recibidas/
+audios_generados/
+temp_ocr.jpg
+
+
