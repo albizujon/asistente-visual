@@ -23,15 +23,17 @@
 
 ## 📖 Tabla de Contenidos
 
-- [Características](#-características)
-- [Demo](#-demo)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Requisitos](#-requisitos)
-- [Instalación](#-instalación)
-- [Uso](#-uso)
-- [Despliegue](#-despliegue)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
+- [📝 Descripción](#-descripción)
+- [📖 Tabla de Contenidos](#-tabla-de-contenidos)
+- [✨ Características](#-características)
+- [📸 Demo](#-demo)
+- [🗂 Estructura del Proyecto](#-estructura-del-proyecto)
+- [🛠 Requisitos](#-requisitos)
+- [🚀 Instalación](#-instalación)
+- [▶️ Uso](#️-uso)
+- [☁️ Despliegue](#️-despliegue)
+- [🤝 Contribuir](#-contribuir)
+- [📜 Licencia](#-licencia)
 
 ---
 
