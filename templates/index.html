@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asistente Visual</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <h2>🎥 Asistente Visual</h2>
+
+  <video id="video" autoplay width="300"></video><br><br>
+  <button id="capturar">🎙️ Hablar y Capturar</button><br><br>
+
+  <textarea id="pregunta" placeholder="Tu pregunta aparecerá aquí..."></textarea><br><br>
+
+  <p><strong>Estado:</strong> <span id="estado">Esperando...</span></p>
+  <p><strong>Respuesta:</strong> <span id="respuesta"></span></p>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
